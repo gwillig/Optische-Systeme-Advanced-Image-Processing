@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: Das Zwischenverzeichnis (x64\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (Test_OpenCV (Daniel Husfeldts in Konflikt stehende Kopie 2017-11-24).vcxproj, Test_OpenCV (tom schusters in Konflikt stehende Kopie 2017-12-14).vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  ConsoleApplication1.cpp
+c:\users\gustav willig\dropbox\master\ws18\02_ortschilder - kopie (2)\consoleapplication1.cpp(54): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\gustav willig\dropbox\master\ws18\02_ortschilder - kopie (2)\consoleapplication1.cpp(57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\gustav willig\dropbox\master\ws18\02_ortschilder - kopie (2)\consoleapplication1.cpp(280): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+c:\users\gustav willig\dropbox\master\ws18\02_ortschilder - kopie (2)\consoleapplication1.cpp(309): warning C4267: "=": Konvertierung von "size_t" nach "unsigned short", Datenverlust möglich
+c:\users\gustav willig\dropbox\master\ws18\02_ortschilder - kopie (2)\consoleapplication1.cpp(363): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\gustav willig\dropbox\master\ws18\02_ortschilder - kopie (2)\consoleapplication1.cpp(364): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\gustav willig\dropbox\master\ws18\02_ortschilder - kopie (2)\consoleapplication1.cpp(457): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\gustav willig\dropbox\master\ws18\02_ortschilder - kopie (2)\consoleapplication1.cpp(465): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  ConsoleApplication1.vcxproj -> C:\Users\Gustav Willig\Dropbox\Master\WS18\02_Ortschilder - Kopie (2)\x64\Debug\Test_OpenCV.exe

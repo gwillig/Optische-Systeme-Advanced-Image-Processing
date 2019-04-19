@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: Das Zwischenverzeichnis (x64\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (Test_OpenCV (Daniel Husfeldts in Konflikt stehende Kopie 2017-11-24).vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  stdafx.cpp
+c:\users\gustav willig\dropbox\master\ws18\06_optische_systeme\02_ortschilder\stdafx.cpp(19): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\gustav willig\dropbox\master\ws18\06_optische_systeme\02_ortschilder\stdafx.cpp(38): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  ConsoleApplication1.cpp
+c:\users\gustav willig\dropbox\master\ws18\06_optische_systeme\02_ortschilder\consoleapplication1.cpp(157): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+c:\users\gustav willig\dropbox\master\ws18\06_optische_systeme\02_ortschilder\consoleapplication1.cpp(177): warning C4267: "=": Konvertierung von "size_t" nach "unsigned short", Datenverlust möglich
+c:\users\gustav willig\dropbox\master\ws18\06_optische_systeme\02_ortschilder\consoleapplication1.cpp(275): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\gustav willig\dropbox\master\ws18\06_optische_systeme\02_ortschilder\consoleapplication1.cpp(288): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  ConsoleApplication1.vcxproj -> C:\Users\Gustav Willig\Dropbox\Master\WS18\06_Optische_Systeme\02_Ortschilder\x64\Debug\Test_OpenCV.exe
