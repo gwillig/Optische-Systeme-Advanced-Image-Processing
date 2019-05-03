@@ -9,6 +9,10 @@ It was a part of the master's degree (Electronic Systems Engineering) at Heilbro
  1. Download or clone the project
  2. Open the file ConsoleApplication1.sln in Visual Studio 2017
 
+## Used technologies
+* C++
+
+
 # License
 The MIT License (MIT)
 
