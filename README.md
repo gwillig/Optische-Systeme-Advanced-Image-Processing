@@ -11,8 +11,8 @@ It was a part of the master's degree (Electronic Systems Engineering) at Heilbro
 
 ## Used technologies
 * C++
-
-
+## Team
+* Daniel Husfeld
 ## License
 The MIT License (MIT)
 
